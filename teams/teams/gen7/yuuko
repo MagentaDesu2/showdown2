@@ -1,6 +1,6 @@
 Sol (Absol) (M) @ Black Glasses  
 Ability: Super Luck  
-Level: 32  
+Level: 100  
 EVs: 252 Atk / 4 Def / 252 Spe  
 - Knock Off  
 - Swords Dance  
@@ -9,7 +9,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 
 Fluff (Eevee) (F) @ Eevium Z  
 Ability: Adaptability  
-Level: 35  
+Level: 100 
 Shiny: Yes  
 EVs: 252 Atk / 124 Def / 4 SpD / 128 Spe  
 Jolly Nature  
@@ -18,7 +18,7 @@ Jolly Nature
 
 Kyut (Mimikyu) (F) @ Expert Belt  
 Ability: Disguise  
-Level: 30  
+Level: 100  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Shadow Claw  
@@ -28,7 +28,7 @@ Jolly Nature
 
 Bro (Crobat) (M) @ Sharp Beak  
 Ability: Infiltrator  
-Level: 36  
+Level: 100  
 EVs: 252 Atk / 252 Spe  
 Adamant Nature  
 - Dual Wingbeat  
@@ -38,7 +38,7 @@ Adamant Nature
 
 Quetzal (Servine) (F) @ Leftovers  
 Ability: Contrary  
-Level: 29  
+Level: 100  
 EVs: 128 Def / 252 SpA / 128 SpD  
 Timid Nature  
 IVs: 0 Atk  
@@ -49,7 +49,7 @@ IVs: 0 Atk
 
 Lu (Lucario) (M) @ Lucarionite  
 Ability: Steadfast  
-Level: 30  
+Level: 100  
 EVs: 128 Atk / 128 SpA / 252 Spe  
 Lonely Nature  
 - Meteor Mash  
